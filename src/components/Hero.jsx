@@ -136,7 +136,7 @@ export default function Hero({ scrollTo }) {
               }}
             >
               <img
-                src="/img4.PNG"
+                src="/img44.jpeg"
                 alt="Aftab Shekh"
                 style={{
                   width: "100%",
