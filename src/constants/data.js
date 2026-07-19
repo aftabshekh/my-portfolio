@@ -108,36 +108,83 @@ export const SOFT_SKILLS = [
   { name: "Teamwork", emoji: "🤝" },
 ];
 
+// export const PROJECTS = [
+//  {
+//   title: "DeepFocus",
+//   cat: "Learning Management System",
+//   img: "/Deepfocus.png",
+//   desc: "AI-powered Learning Management System for engineers with course enrollment, progress tracking, book reader, dashboard, and Gemini AI tutor.",
+//   tech: "React • Node.js • Express • MongoDB • Gemini AI",
+//   link: "https://deep-focus-lyart.vercel.app",
+// },
+//   {
+//     title: "Portfolio Website",
+//     cat: "Frontend",
+//     img: "/portfolio.png",
+//     desc: "Personal portfolio showcasing projects, skills, and contact info.",
+//     tech: "React · Tailwind CSS",
+//   },
+//   {
+//     title: "Zerodha Clone",
+//     cat: "Full-Stack",
+//     img: "/zerodha.jpg",
+//     desc: "A Zerodha-inspired trading platform clone built to simulate stock trading UI and functionality.",
+//     tech: "React · Node.js · MongoDB",
+//   },
+//   {
+//     title: "HealthCare",
+//     cat: "Web App",
+//     img: "/HealthCare.jpg",
+//     desc: "Developed a healthcare platform to streamline patient management and improve user accessibility.",
+//     tech: "React · Node.js · MySQL",
+//   },
+// ];
+
+
+
 export const PROJECTS = [
   {
-    title: "Student Portal",
-    cat: "Web App",
-    img: "/portal.jpg",
-    desc: "Student management system with secure login and admin dashboard.",
-    tech: "Java · MySQL · HTML/CSS",
+    title: "DeepFocus",
+    cat: "Learning Management System",
+    img: "/Deepfocus.png",
+    desc: "AI-powered Learning Management System for engineers featuring course enrollment, progress tracking, AI tutor, dashboard, and book reader.",
+    tech: "React • Node.js • Express • MongoDB • Gemini AI",
+    live: "https://deep-focus-lyart.vercel.app",
+    github: "https://github.com/aftabshekh/deep-focus",
   },
+
   {
     title: "Portfolio Website",
     cat: "Frontend",
-    img: "/portfolio.jpg",
-    desc: "Personal portfolio showcasing projects, skills, and contact info.",
-    tech: "React · Tailwind CSS",
+    img: "/portfolio.png",
+    desc: "Modern responsive portfolio showcasing my projects, technical skills, resume, and contact information.",
+    tech: "React • CSS • JavaScript",
+    live: "https://my-portfolio-delta-eight-49.vercel.app/",
+    github: "https://github.com/aftabshekh/my-portfolio.git",
   },
+
   {
     title: "Zerodha Clone",
     cat: "Full-Stack",
     img: "/zerodha.jpg",
-    desc: "A Zerodha-inspired trading platform clone built to simulate stock trading UI and functionality.",
-    tech: "React · Node.js · MongoDB",
+    desc: "Full-stack Zerodha-inspired trading platform with authentication, dashboard, holdings, orders, and portfolio management.",
+    tech: "React • Node.js • Express • MongoDB",
+    live: "https://YOUR-ZERODHA-LINK.vercel.app",
+    github: "https://github.com/aftabshekh/YOUR-ZERODHA-REPO",
   },
+
   {
     title: "HealthCare",
-    cat: "Web App",
+    cat: "Web Application",
     img: "/HealthCare.jpg",
-    desc: "Developed a healthcare platform to streamline patient management and improve user accessibility.",
-    tech: "React · Node.js · MySQL",
+    desc: "Healthcare management platform for patient appointments, medical records, and doctor management.",
+    tech: "React • Node.js • MySQL",
+    live: "http://aftab-medilink-app.s3-website.ap-south-1.amazonaws.com",
+    github: "https://github.com/aftabshekh/medilink-healthcare-app.git",
   },
 ];
+
+
 
 export const SOCIAL = [
   {
@@ -171,3 +218,7 @@ export const SOCIAL = [
     href: "https://github.com/aftabshekh",
   },
 ];
+
+
+
+
