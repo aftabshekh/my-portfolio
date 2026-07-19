@@ -142,8 +142,8 @@ export default function About({ scrollTo }) {
                 My Projects
               </button>
               <a
-                href="/AFTAB-SHEKH-RESUME.pdf"
-                download="AFTAB-SHEKH-RESUME.pdf"
+                href="/Aftab_Resume.pdf"
+                download="Aftab_Resume.pdf"
                 style={{ textDecoration: "none" }}
               >
                 <button className="btn-outline-purple">⬇ Download CV</button>
