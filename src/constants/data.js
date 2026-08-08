@@ -166,7 +166,6 @@ export const TECH_SKILLS = [
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
   },
 
-
 ];
 
 export const SOFT_SKILLS = [
@@ -249,7 +248,7 @@ export const PROJECTS = [
     img: "/HealthCare.jpg",
     desc: "Healthcare management platform for patient appointments, medical records, and doctor management.",
     tech: "React • Node.js • MySQL",
-    live: "http://aftab-medilink-app.s3-website.ap-south-1.amazonaws.com",
+    live: "https://medilink-healthcare-app.vercel.app",
     github: "https://github.com/aftabshekh/medilink-healthcare-app.git",
   },
 ];
