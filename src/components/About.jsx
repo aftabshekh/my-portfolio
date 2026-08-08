@@ -20,7 +20,7 @@ export default function About({ scrollTo }) {
               }}
             >
               <img
-                src="/img2.jpg"
+                src="/image77.jpeg"
                 alt="Aftab Shekh"
                 style={{
                   width: "100%",
